@@ -1,11 +1,11 @@
-## 4. Git/GitHubの理解・操作習得
+# 4. Git/GitHubの理解・操作習得
 
-### ゴール
+## ゴール
 
 - バージョン管理について理解する。
 - GitHubにてリポジトリを作ってみる。
 
-### 学習リソース
+## 学習リソース
 
 - [Gitを使ったバージョン管理｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/intro/01/)
 
